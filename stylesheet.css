@@ -1,0 +1,74 @@
+p {
+  color: black;
+  font-size: 1.55em;
+  margin-left: 50px;
+  margin-right: 55px;
+  text-align: left;
+  font-family: fantasy;
+
+}
+h1 {
+  font-family: fantasy;
+  font-size: 7em;
+  text-align: center;
+  color: purple;
+}
+#title {
+  text-align: left;
+  ont-family: monospace;
+
+}
+h2 {
+  color: purple;
+
+}
+#second {
+  text-align: left;
+  ont-family: monospace;
+
+}
+#heading {
+  color: purple;
+  font-family: inherit;
+}
+#pic {
+  display: block;
+  margin-top: 45px;
+
+
+}
+
+
+
+
+}
+#logo {
+  display: block;
+  text-align: left;
+
+
+
+}
+#pic2 {
+  display: block;
+  margin-top: 5px
+
+
+}
+h3 {
+  margin-top: 50px;
+  color: purple;
+}
+
+
+img {
+  display: block;
+  margin-top: 45px;
+  margin-left:10px;
+  margin-right: 70px;
+  float: right;
+  width: 15%;
+}
+body {
+  background-color: lightblue;
+}
